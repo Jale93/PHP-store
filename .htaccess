@@ -1,0 +1,4 @@
+RewriteEngine On
+#RewriteRule ^([a-zA-Z0-9/\-_]+)/([a-zA-Z0-9\-_]+)?$ index.php?url=$1&id=$2
+RewriteRule ^([a-zA-Z0-9/\-_]+)?$ index.php?url=$1
+

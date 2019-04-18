@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+<<<<<<< HEAD
+            <file>file:/C:/wamp64/www/web/admin/products.php</file>
+            <file>file:/C:/wamp64/www/web/admin/includes/products.php</file>
+            <file>file:/C:/wamp64/www/web/admin/add_product.php</file>
+            <file>file:/C:/wamp64/www/web/admin/edit_product.php</file>
+            <file>file:/C:/wamp64/www/web/admin/delete_product.php</file>
+=======
+            <file>file:/C:/Users/jale.mammadli/Desktop/xampp/htdocs/web/admin/contactmessages.php</file>
+            <file>file:/C:/Users/jale.mammadli/Desktop/xampp/htdocs/web/admin/includes/contactmessage.php</file>
+            <file>file:/C:/Users/jale.mammadli/Desktop/xampp/htdocs/web/admin/includes/db_object.php</file>
+            <file>file:/C:/Users/jale.mammadli/Desktop/xampp/htdocs/web/models/contact.php</file>
+            <file>file:/C:/Users/jale.mammadli/Desktop/xampp/htdocs/web/admin/includes/init.php</file>
+            <file>file:/C:/Users/jale.mammadli/Desktop/xampp/htdocs/web/admin/orders.php</file>
+            <file>file:/C:/Users/jale.mammadli/Desktop/xampp/htdocs/web/admin/includes/side_nav.php</file>
+>>>>>>> d512e13bfcac9403aee62ed05b58344ab96f0809
+        </group>
+    </open-files>
+</project-private>
